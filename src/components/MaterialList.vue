@@ -33,6 +33,9 @@ export default {
         open(newValue) {
             this.drawer = newValue;
         },
+        drawer(newValue) {
+            this.$emit('open-change', newValue)
+        }
     },
     computed: {
         ...mapGetters({

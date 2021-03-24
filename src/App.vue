@@ -22,7 +22,7 @@
             </v-container>
         </v-main>
 
-        <material-list :open="open"/>
+        <material-list :open="open" @open-change='changeOpen'/>
     </v-app>
 </template>
 
@@ -46,6 +46,9 @@ export default {
     methods: {
         openMaterialList() {
             this.open = true;
+        },
+        changeOpen(event) {
+            this.open = event;
         }
     },
     components: {
