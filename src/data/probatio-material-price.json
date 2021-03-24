@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Board pcb-base",
+        "price": 1
+    },
+    {
+        "name": "Board pcb-pogo",
+        "price": 0.25
+    },
+    {
+        "name": "Spring-loaded Pins",
+        "price": 0.5
+    },
+    {
+        "name": "Magnets",
+        "price": 0.5
+    },
+    {
+        "name": "Connector RJ-12",
+        "price": 0.25
+    },
+    {
+        "name": "Arduino Pro Mini",
+        "price": 5
+    },
+    {
+        "name": "Arduino Pro Micro",
+        "price": 8
+    },
+    {
+        "name": "Sensor Hall",
+        "price": 0.5
+    },
+    {
+        "name": "Sensor Button",
+        "price": 0.5
+    },
+    {
+        "name": "Sensor Rotary Encoder",
+        "price": 0.5
+    },
+    {
+        "name": "Sensor 4dof Joystick",
+        "price": 16
+    },
+    {
+        "name": "Sensor Potentiometer",
+        "price": 0.5
+    },
+    {
+        "name": "Sensor Thumb Joystick",
+        "price": 1
+    },
+    {
+        "name": "Sensor Joystick",
+        "price": 1
+    },
+    {
+        "name": "Sensor OBSF-24",
+        "price": 1
+    },
+    {
+        "name": "Sensor Piezo",
+        "price": 0.1
+    },
+    {
+        "name": "M5stickC",
+        "price": 16
+    }
+]

@@ -1,0 +1,438 @@
+[
+    {
+        "id": 0,
+        "name": "base-1x3",
+        "slot": 3,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-base",
+                "amount": 3
+            },
+            {
+                "name": "Magnets",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "base-3x3",
+        "slot": 9,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-base",
+                "amount": 9
+            },
+            {
+                "name": "Magnets",
+                "amount": 36
+            },
+            {
+                "name": "Connector RJ-12",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "dual-pistons",
+        "slot": 1,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 2
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 8
+            },
+            {
+                "name": "Magnets",
+                "amount": 4
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Sensor Hall",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "dual-buttons",
+        "slot": 1,
+        "aux": 0,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 2
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 8
+            },
+            {
+                "name": "Magnets",
+                "amount": 4
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Sensor Button",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "dual-pots",
+        "slot": 1,
+        "aux": 0,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 2
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 8
+            },
+            {
+                "name": "Magnets",
+                "amount": 4
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Sensor Potentiometer",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "rotary",
+        "slot": 1,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 2
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 8
+            },
+            {
+                "name": "Magnets",
+                "amount": 4
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Sensor Rotary Encoder",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "dof4-joystick",
+        "slot": 4,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 1
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 4
+            },
+            {
+                "name": "Magnets",
+                "amount": 16
+            },
+            {
+                "name": "Arduino Pro Micro",
+                "amount": 1
+            },
+            {
+                "name": "Sensor 4dof Joystick",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "four-pistons",
+        "slot": 2,
+        "aux": 0,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 2
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 8
+            },
+            {
+                "name": "Magnets",
+                "amount": 8
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Sensor Hall",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "four-thumbs",
+        "slot": 2,
+        "aux": 0,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 2
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 8
+            },
+            {
+                "name": "Magnets",
+                "amount": 8
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Sensor Thumb Joystick",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "four-buttons",
+        "slot": 1,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 2
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 8
+            },
+            {
+                "name": "Magnets",
+                "amount": 4
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Sensor Button",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "four-pots",
+        "slot": 1,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 2
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 8
+            },
+            {
+                "name": "Magnets",
+                "amount": 4
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Sensor Potentiometer",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "joystick",
+        "slot": 1,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 2
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 8
+            },
+            {
+                "name": "Magnets",
+                "amount": 4
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Sensor Joystick",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "obsf-24",
+        "slot": 1,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 2
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 8
+            },
+            {
+                "name": "Magnets",
+                "amount": 4
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Sensor OBSF-24",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "piezo",
+        "slot": 1,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 2
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 8
+            },
+            {
+                "name": "Magnets",
+                "amount": 4
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Sensor Piezo",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "dummy-1x1",
+        "slot": 1,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Magnets",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "dummy-1x2",
+        "slot": 2,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Magnets",
+                "amount": 8
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "dummy-2x2",
+        "slot": 4,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Magnets",
+                "amount": 16
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "support-lateral",
+        "slot": 1,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Magnets",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "hub",
+        "slot": 0,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Connector RJ-12",
+                "amount": 1
+            },
+            {
+                "name": "M5stickC",
+                "amount": 1
+            }
+        ]
+    }
+]
