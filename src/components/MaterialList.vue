@@ -1,6 +1,6 @@
 <template>
-    <v-navigation-drawer v-model="drawer" absolute temporary right class="material-list">
-        <h1>Materias</h1>
+    <div class="material-list">
+        <h1>Materials</h1>
         <p v-if="!hasNeededMaterials">No components selected</p>
         <ul v-else>
             <li v-for="(material, index) in neededMaterials" :key="index" class="material">
@@ -10,7 +10,7 @@
                 <div class="material-info">{{ material.qtyNeeded }}</div>
             </li>
         </ul>
-    </v-navigation-drawer>
+    </div>
 </template>
 
 <script>
@@ -54,6 +54,7 @@ export default {
 <style lang="scss" scoped>
 .material-list {
 	padding: 12px;
+    min-width: 25%;
 }
 
 ul {

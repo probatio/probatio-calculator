@@ -1,5 +1,5 @@
-<template class="component-card">
-  <v-hover v-slot="{ hover }">
+<template >
+  <v-hover v-slot="{ hover }" class="component-card">
     <v-card color="white" max-width="250">
       <v-badge :content="component.qtySelected" :value="component.qtySelected" color="red" overlap>
         <v-img :src="imgSrc" height="200" contain>
