@@ -16,7 +16,7 @@
             <v-container class="grey lighten-5">
                 <v-row no-gutters style="height: 150px;">
                     <v-col v-for="component in components" :key="component.id" cols="6" md="3">
-                        <component-card :component="component" class="component-card"/>
+                        <component-card :component="component"/>
                     </v-col>
                 </v-row>
             </v-container>
@@ -59,8 +59,5 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.component-card {
-    margin: 8px;
-    padding: 12px;
-}
+
 </style>
