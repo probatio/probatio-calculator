@@ -434,5 +434,21 @@
                 "amount": 1
             }
         ]
+    },
+    {
+        "id": 19,
+        "name": "hub2",
+        "slot": 0,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Connector RJ-12",
+                "amount": 1
+            },
+            {
+                "name": "M5stickC",
+                "amount": 1
+            }
+        ]
     }
 ]
