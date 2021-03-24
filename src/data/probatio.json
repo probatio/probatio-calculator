@@ -450,5 +450,33 @@
                 "amount": 1
             }
         ]
+    },
+    {
+        "id": 20,
+        "name": "Block 4-DOF Joystick",
+        "slot": 1,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-pogo",
+                "amount": 1
+            },
+            {
+                "name": "Spring-loaded Pins",
+                "amount": 4
+            },
+            {
+                "name": "Magnets",
+                "amount": 4
+            },
+            {
+                "name": "Arduino Pro Mini",
+                "amount": 1
+            },
+            {
+                "name": "Joystick 4-DOF",
+                "amount": 1
+            }
+        ]
     }
 ]
