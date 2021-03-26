@@ -1,41 +1,5 @@
 [
     {
-        "id": 0,
-        "name": "Base-1x3",
-        "slot": 3,
-        "aux": 1,
-        "materials": [
-            {
-                "name": "Board pcb-base",
-                "amount": 3
-            },
-            {
-                "name": "Magnets",
-                "amount": 12
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "name": "base-3x3",
-        "slot": 9,
-        "aux": 1,
-        "materials": [
-            {
-                "name": "Board pcb-base",
-                "amount": 9
-            },
-            {
-                "name": "Magnets",
-                "amount": 36
-            },
-            {
-                "name": "Connector RJ-12",
-                "amount": 1
-            }
-        ]
-    },
-    {
         "id": 2,
         "name": "dual-pistons",
         "slot": 1,
@@ -475,6 +439,42 @@
             },
             {
                 "name": "Joystick 4-DOF",
+                "amount": 1
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "name": "Base-1x3",
+        "slot": 3,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-base",
+                "amount": 3
+            },
+            {
+                "name": "Magnets",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "base-3x3",
+        "slot": 9,
+        "aux": 1,
+        "materials": [
+            {
+                "name": "Board pcb-base",
+                "amount": 9
+            },
+            {
+                "name": "Magnets",
+                "amount": 36
+            },
+            {
+                "name": "Connector RJ-12",
                 "amount": 1
             }
         ]
